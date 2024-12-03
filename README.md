@@ -1,5 +1,5 @@
-CommSync - Communication Tracking Made Simple
-CommSync is a React-based calendar application designed to streamline and optimize professional communication schedules with companies. This tool ensures timely follow-ups, accurate record-keeping, and efficient planning to maintain consistent and strong relationships with external organizations.
+Schedule Calendar - Communication Tracking Made Simple
+Schedule Calendar is a React-based calendar application designed to streamline and optimize professional communication schedules with companies. This tool ensures timely follow-ups, accurate record-keeping, and efficient planning to maintain consistent and strong relationships with external organizations.
 
 Features
 🚀 Core Functionalities
